@@ -16,6 +16,23 @@ public class Git14 {
 	// TODO Auto-generated method stub
 	   System.out.println(2);
 }
+   
+   
+   
+   private void long3() {
+	
+	   System.out.println(3);
+}
+   
+   
+   
+   private void long4() {
+	
+	   System.out.println(4);
+   
+   
+   
+   }
 	
 	
 	public static void main(String[] args) {
